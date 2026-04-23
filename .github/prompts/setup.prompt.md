@@ -9,6 +9,7 @@ Your goal is to successfully build and run the workspace as local development en
 ## Checklist
 - [ ] Required dependencies from package.json/README.md installed
 - [ ] Lint, build and test tasks functional
+- [ ] Tests are run in setup and must pass before the workspace is considered ready
 - [ ] Dev server running
 - [ ] Site open in browser preview
 - [ ] Short engaging welcome tour for the workspace
